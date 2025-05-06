@@ -8,6 +8,6 @@ public class MyFormManager : MonoBehaviour
 
     private void OnEnable()
     {
-        firstInput.Select();
+       firstInput.Select();
     }
 }

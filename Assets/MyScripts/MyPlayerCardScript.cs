@@ -7,7 +7,7 @@ public class MyPlayerCardScript : MonoBehaviour
     public TMP_Text newDescriptionText;
     public TMP_Text AgeText;
 
-    public void UpdateName(strig newName)
+    public void UpdateName(string newName)
     {
         nameText.text = newName;
     }
